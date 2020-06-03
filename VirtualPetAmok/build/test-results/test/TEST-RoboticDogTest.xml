@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RoboticDogTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-06-03T21:10:14" hostname="DESKTOP-LVBAOCR" time="0.005">
+  <properties/>
+  <testcase name="t6shouldBeAbleToIncreasePetsHealth" classname="RoboticDogTest" time="0.003"/>
+  <testcase name="t1shouldReturnPetName" classname="RoboticDogTest" time="0.0"/>
+  <testcase name="t3shouldReturnHappiness" classname="RoboticDogTest" time="0.0"/>
+  <testcase name="t2shouldReturnPetDescription" classname="RoboticDogTest" time="0.0"/>
+  <testcase name="t4shouldReturnHealth" classname="RoboticDogTest" time="0.0"/>
+  <testcase name="t5shouldReturnOilLevel" classname="RoboticDogTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
